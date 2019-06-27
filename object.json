@@ -3,5 +3,6 @@
   "type": "ml-cnn-model",
   "authors": [
     "QmbqeosypGVQC1QtbuxD9UZaqrpvJBh9P4nSvwrRm9dYV3"
-  ]
+  ],
+  "file": "frozen_inference_graph.pb"
 }
