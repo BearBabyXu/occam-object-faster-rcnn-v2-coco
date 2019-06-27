@@ -1,4 +1,7 @@
 {
   "name": "faster_rcnn_inception_v2_coco",
-  "type": "ml-cnn-model"
+  "type": "ml-cnn-model",
+  "authors": [
+    "QmbqeosypGVQC1QtbuxD9UZaqrpvJBh9P4nSvwrRm9dYV3"
+  ]
 }
